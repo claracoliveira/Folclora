@@ -1,0 +1,263 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'pt' Physical Memory: 6074 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/ana/escola/jogo/New Unity Project - Copia/Folclora
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+58382
+Successfully changed project path to: C:/ana/escola/jogo/New Unity Project - Copia/Folclora
+C:/ana/escola/jogo/New Unity Project - Copia/Folclora
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 42.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/ana/escola/jogo/New Unity Project - Copia/Folclora/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3037 MB
+    Driver:   27.20.1020.1
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56096
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003362 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 40.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.159 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001401 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.161 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.30 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1262 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.0 MB.
+System memory in use after: 74.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1721.
+Total: 2.093600 ms (FindLiveObjects: 0.198200 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.714800 ms  DeleteObjects: 0.141400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Personagem/cam.prefab
+  artifactKey: Guid(19888bab217251f479691af7208f0f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personagem/cam.prefab using Guid(19888bab217251f479691af7208f0f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f9b964e7e35a6efda071f72bd7528d') in 0.502936 seconds
+  Import took 0.526315 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001085 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.379 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1257 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.0 MB.
+System memory in use after: 74.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1724.
+Total: 2.511200 ms (FindLiveObjects: 0.190100 ms CreateObjectMapping: 0.032700 ms MarkObjects: 2.171800 ms  DeleteObjects: 0.114400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.769902 seconds.
+  path: Assets/Personagem/CM 3rdP cam.prefab
+  artifactKey: Guid(4aa0791403e1e5749bbdf5ba3aef8a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personagem/CM 3rdP cam.prefab using Guid(4aa0791403e1e5749bbdf5ba3aef8a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f994460a0e94d17539f2150102b174') in 0.051729 seconds
+  Import took 0.072400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.420129 seconds.
+  path: Assets/Personagem/cam.prefab
+  artifactKey: Guid(19888bab217251f479691af7208f0f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personagem/cam.prefab using Guid(19888bab217251f479691af7208f0f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa86abda24f574d5568aeafc71569323') in 0.016218 seconds
+  Import took 0.020612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.994390 seconds.
+  path: Assets/Standard Assets/Environment
+  artifactKey: Guid(6ca8c4e270f964e0da9f731d7d34b123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment using Guid(6ca8c4e270f964e0da9f731d7d34b123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2f4a8daade89049ca511ce6dd261b3') in 0.011693 seconds
+  Import took 0.014526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.750093 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree
+  artifactKey: Guid(c04a867c41990cb44b46672730a8e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree using Guid(c04a867c41990cb44b46672730a8e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1492fae0ec5581aa3c1a944874348fe') in 0.025465 seconds
+  Import took 0.044696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.686979 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf
+  artifactKey: Guid(98f48093c79e1de4aad538371abbe607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf using Guid(98f48093c79e1de4aad538371abbe607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df898c7b16beb828f0e527a1f81af86a') in 0.012075 seconds
+  Import took 0.014832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.429605 seconds.
+  path: Assets/Standard Assets/Environment/TerrainAssets
+  artifactKey: Guid(7e6f84bf81c8d4de280f1133cff7e601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/TerrainAssets using Guid(7e6f84bf81c8d4de280f1133cff7e601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705c6ee6220f30d7e3bbc67c995de031') in 0.011519 seconds
+  Import took 0.014220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.721174 seconds.
+  path: Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures
+  artifactKey: Guid(4f9d71771b07cb6438e0d35b038b43a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures using Guid(4f9d71771b07cb6438e0d35b038b43a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b3be29e1f7c2d4a3b756fdc54569649') in 0.011904 seconds
+  Import took 0.023050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.431059 seconds.
+  path: Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures
+  artifactKey: Guid(cba4562cece794697b418ce8e7c04b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures using Guid(cba4562cece794697b418ce8e7c04b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5ea8cae60de83fb16b68929bc93321') in 0.011692 seconds
+  Import took 0.059340 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001251 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.191 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1256 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.0 MB.
+System memory in use after: 74.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1726.
+Total: 2.071800 ms (FindLiveObjects: 0.193800 ms CreateObjectMapping: 0.038800 ms MarkObjects: 1.737400 ms  DeleteObjects: 0.100300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.208399 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm
+  artifactKey: Guid(c91c1eb85782d5748ace27eb4d7415bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm using Guid(c91c1eb85782d5748ace27eb4d7415bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed0e08d5457394287fe4771c9447c74') in 4.235932 seconds
+  Import took 4.239403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.585628 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0
+  artifactKey: Guid(f420aff58dc8992489809a07ff0b3889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0 using Guid(f420aff58dc8992489809a07ff0b3889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b81fc63cc623c092551b96bce67933') in 0.011210 seconds
+  Import took 0.022421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.491128 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Conifer
+  artifactKey: Guid(73ab447d8034be44f8321c730cc6247a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Conifer using Guid(73ab447d8034be44f8321c730cc6247a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0d7f718aa79c6e2b64678cfadd5112') in 0.018666 seconds
+  Import took 0.021309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.284646 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg
+  artifactKey: Guid(1fbc4e410d66d804aaf31b4c25b16ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg using Guid(1fbc4e410d66d804aaf31b4c25b16ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c85014f18cea383735d0f92aa59e20d') in 0.177439 seconds
+  Import took 0.190443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 521.635467 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm
+  artifactKey: Guid(6aab193b7693b5e4c9741f1917d2987c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm using Guid(6aab193b7693b5e4c9741f1917d2987c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a34c883f0c70597d98d08e0eb36a96b') in 0.181787 seconds
+  Import took 0.185003 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001013 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.064 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1256 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.1 MB.
+System memory in use after: 82.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1742.
+Total: 2.185800 ms (FindLiveObjects: 0.215200 ms CreateObjectMapping: 0.039400 ms MarkObjects: 1.826000 ms  DeleteObjects: 0.103300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.390473 seconds.
+  path: Assets/Terrenos
+  artifactKey: Guid(6ef8a3d19b5d8ed4c891549df2db0c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrenos using Guid(6ef8a3d19b5d8ed4c891549df2db0c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5d779551f9e8dd7dde6efba8ff61f7') in 0.014864 seconds
+  Import took 0.017588 seconds .
+
